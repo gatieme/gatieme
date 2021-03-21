@@ -57,7 +57,7 @@
 >
 > **LeetCode:** https://leetcode-cn.com/u/gatieme
 >
-> **知乎:** https://www.zhihu.com/people/gatieme
+> **ZhiHu:** https://www.zhihu.com/people/gatieme
 
 ###  💬 About
 -------
