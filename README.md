@@ -23,7 +23,7 @@
 </tr>
 </table>
 
-
+![贪吃蛇](https://raw.githubusercontent.com/gatieme/gatieme/output/github-contribution-grid-snake.svg)
 
 内核社区头号灌水菜鸡
 
